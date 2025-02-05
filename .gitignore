@@ -1,0 +1,8 @@
+# Ignore README.md inside subfolders
+Homework*/**/README.md
+*.zip
+*.pdf
+*.DS_Store
+*.exe
+__pycache__/
+temp/
